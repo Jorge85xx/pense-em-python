@@ -24,8 +24,8 @@ Atualmente, já publiquei os exercícios dos seguintes capítulos:
 - [x] Capítulo 3: Funções
 - [x] Capítulo 4: Estudo de caso: projeto de interface
 - [x] Capítulo 5: Condicionais e recursividade
-- [ ] Capítulo 6: Funções com resultado
-- [ ] Capítulo 7: Iteração
+- [x] Capítulo 6: Funções com resultado
+- [x] Capítulo 7: Iteração
 - [ ] Capítulo 8: Strings
 - [ ] Capítulo 9: Estudo de caso: jogos de palavras
 - [ ] Capítulo 10: Listas
