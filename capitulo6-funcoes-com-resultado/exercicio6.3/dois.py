@@ -17,5 +17,3 @@ for word in words:
     print(f"A palavra '{word}' é um palíndromo? {is_palindrome(word)}")
 
 "outra maneira de fazer"
-def is_palindrome(s):
-    return s == s[::-1]
